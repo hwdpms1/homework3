@@ -4,5 +4,5 @@ three
 four
 five --locally
 six --locally
-seven --locally
-eight --localy
+seven --remotly
+eight --remotly

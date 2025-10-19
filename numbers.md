@@ -6,3 +6,5 @@ five --locally
 six --locally
 seven --remotly
 eight --remotly
+nine --remotly
+ten --remotly
